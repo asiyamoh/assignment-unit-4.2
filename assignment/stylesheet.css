@@ -1,0 +1,14 @@
+header{
+    background-color:beige;
+}
+
+h2{
+    background-color:black;
+}
+
+img{
+    width: min-content;
+    border-image: 50px;
+    
+}
+    
